@@ -1,0 +1,28 @@
+{
+  "name": "mean1",
+  "version": "1.0.0",
+  "description": "Mean App 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancrawford27/Mean1.git"
+  },
+  "keywords": [
+    "Mean",
+    "App",
+    "1"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dancrawford27/Mean1/issues"
+  },
+  "homepage": "https://github.com/dancrawford27/Mean1#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1"
+  }
+}
